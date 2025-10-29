@@ -7,11 +7,11 @@ A console-based personal budget tracking application built with Java core to man
 Goal of this project to review fundamental concepts using plain Java.
 
 ## Planned Features
--Add income and expense transactions
--Categorize transactions
--Filter transactions by date, category, or type
--Financial summary
--Category-wise spending breakdown
+- Add income and expense transactions
+- Categorize transactions
+- Filter transactions by date, category, or type
+- Financial summary
+- Category-wise spending breakdown
 
 ## Tech
 **Language:** Java 21
